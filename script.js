@@ -89,4 +89,73 @@ iframe.style.height = "100%";
 iframe.style.border = "none";
 iframe.src = url;
 win.document.body.appendChild(iframe);
-}
+} 
+
+function boxing_random(){
+var win = window.open('about:blank');
+var url = "https://www.twoplayergames.org/gameframe/boxing-random#;" // Replace with your game
+var iframe = win.document.createElement('iframe');
+iframe.style.width = "100%";
+iframe.style.height = "100%";
+iframe.style.border = "none";
+iframe.src = url;
+win.document.body.appendChild(iframe);
+} 
+
+function get_on_top(){
+var win = window.open('about:blank');
+var url = "https://www.twoplayergames.org/gameframe/get-on-top#;" // Replace with your game
+var iframe = win.document.createElement('iframe');
+iframe.style.width = "100%";
+iframe.style.height = "100%";
+iframe.style.border = "none";
+iframe.src = url;
+win.document.body.appendChild(iframe);
+} 
+
+function get_on_top(){
+var win = window.open('about:blank');
+var url = "https://www.twoplayergames.org/gameframe/get-on-top#;" // Replace with your game
+var iframe = win.document.createElement('iframe');
+iframe.style.width = "100%";
+iframe.style.height = "100%";
+iframe.style.border = "none";
+iframe.src = url;
+win.document.body.appendChild(iframe);
+} 
+
+function get_on_top(){
+var win = window.open('about:blank');
+var url = "https://www.twoplayergames.org/gameframe/get-on-top#;" // Replace with your game
+var iframe = win.document.createElement('iframe');
+iframe.style.width = "100%";
+iframe.style.height = "100%";
+iframe.style.border = "none";
+iframe.src = url;
+win.document.body.appendChild(iframe);
+} 
+
+function get_on_top(){
+var win = window.open('about:blank');
+var url = "https://www.twoplayergames.org/gameframe/get-on-top##;" // Replace with your game
+var iframe = win.document.createElement('iframe');
+iframe.style.width = "100%";
+iframe.style.height = "100%";
+iframe.style.border = "none";
+iframe.src = url;
+win.document.body.appendChild(iframe);
+} 
+
+function get_on_top(){
+var win = window.open('about:blank');
+var url = "https://www.twoplayergames.org/gameframe/get-on-top#;" // Replace with your game
+var iframe = win.document.createElement('iframe');
+iframe.style.width = "100%";
+iframe.style.height = "100%";
+iframe.style.border = "none";
+iframe.src = url;
+win.document.body.appendChild(iframe);
+} 
+
+
+ 
